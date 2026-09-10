@@ -1,0 +1,7 @@
+vlan,nom,reseau,passerelle
+10,Administration,192.168.10.0/24,192.168.10.1
+20,Etudiants,192.168.20.0/24,192.168.20.1
+git status
+git add adressage/plan-adressage.csv README.md .gitignore
+git status
+git commit -m "Valider le plan LAN initial"
