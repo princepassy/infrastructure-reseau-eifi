@@ -5,3 +5,8 @@ git status
 git add adressage/plan-adressage.csv README.md .gitignore
 git status
 git commit -m "Valider le plan LAN initial"
+
+30,Serveurs,192.168.30.0/24,192.168.30.1
+git status
+git add adressage/plan-adressage.csv
+git commit -m "Ajouter le VLAN Serveurs"
