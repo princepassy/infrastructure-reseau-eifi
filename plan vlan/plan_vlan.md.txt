@@ -1,0 +1,4 @@
+# plan LAN  D'entreprise
+
+- vLAN 10 : informatique - subnet 192.168.10.0/24 - GW 192.168.10.1
+- vLAN 20 : Comptabilite - subnet 192.168.20.0/24 - GW 192.168.20.1
