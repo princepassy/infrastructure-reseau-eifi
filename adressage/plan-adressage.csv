@@ -10,8 +10,7 @@ git commit -m "Valider le plan LAN initial"
 git status
 git add adressage/plan-adressage.csv
 git commit -m "Ajouter le VLAN Serveurs"
-
-
-
-
 git status
+
+10, Administration, 192.168.10.0/24 192.168.10.1
+20, comptabilité, 192.168.20.0/24 192.168.20.1
