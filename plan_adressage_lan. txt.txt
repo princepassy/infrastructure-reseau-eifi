@@ -2,3 +2,6 @@ git status
 vLAN 10 : administration - subnet 192.168.10.0/24 passerelle192.168.10.1
 vLAN 20 : Comptabilite  - subnet 192.168.20.0/24 passerelle192.168.20.1
 git add plan_adressage_lan.txt
+
+git status
+vLAN 30 : informatique  - subnet 192.168.30.0/24 passerelle192.168.30.1
