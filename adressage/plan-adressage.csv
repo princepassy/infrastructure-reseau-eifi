@@ -1,12 +1,14 @@
 vlan,nom,reseau,passerelle
 10,Administration,192.168.10.0/24,192.168.10.1
+<<<<<<< HEAD
 20,Informaticiens,192.168.20.0/24,192.168.20.1
+40,Departement,192.168.40.0/24,192.168.40.1
 git status
 git add adressage/plan-adressage.csv README.md .gitignore
 git status
 git commit -m "Valider le plan LAN initial"
 
+=======
+20,Etudiants,192.168.20.0/24,192.168.20.1
+>>>>>>> 4c3c3fcc54649a5f35e8f59fd7d8fbd36fe31be4
 30,Serveurs,192.168.30.0/24,192.168.30.1
-git status
-git add adressage/plan-adressage.csv
-git commit -m "Ajouter le VLAN Serveurs"
