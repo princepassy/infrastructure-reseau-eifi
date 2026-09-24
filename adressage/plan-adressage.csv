@@ -10,3 +10,8 @@ git commit -m "Valider le plan LAN initial"
 git status
 git add adressage/plan-adressage.csv
 git commit -m "Ajouter le VLAN Serveurs"
+
+
+
+
+git status
